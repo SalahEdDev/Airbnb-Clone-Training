@@ -1,5 +1,5 @@
-# fullstack-graphql-airbnb-clone
-A Fullstack GraphQL Airbnb Clone with React and React Native
+# fullstack-Social Network -React Native-NodeJs-Typescript
+A Fullstack Social Network with React and React Native
 
 ## Road map
 
@@ -15,7 +15,7 @@ A Fullstack GraphQL Airbnb Clone with React and React Native
 
 ## Notes
 
-- Typescript
-- Ant Design
+- Typescript/NodeJs
+- React Native
 
 
